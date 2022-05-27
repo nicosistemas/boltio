@@ -11,6 +11,7 @@ on Ubuntu:
 6- source .venv/bin/activate
 
 7- export SLACK_APP_TOKEN=[AWS TOKEN]
+
 8- export SLACK_BOT_TOKEN=[AWS TOKEN]
 
 9- python3 app.py
