@@ -33,3 +33,6 @@ use main.tf file:
 ## about app.py:
 
 Use socket mode for running
+
+https://github.com/slackapi/bolt-python
+
