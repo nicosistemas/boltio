@@ -1,3 +1,12 @@
+on Terraform:
+
+use it main.tf file
+
+1- terraform plan
+
+2- terraform apply
+
+
 on Ubuntu:
 
 1- apt-get install -y python3-venv
