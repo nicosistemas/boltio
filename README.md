@@ -29,3 +29,7 @@ use main.tf file:
 8- `export SLACK_BOT_TOKEN=[AWS TOKEN]`
 
 9- `python3 app.py`
+
+## about app.py:
+
+Use socket mode for running
