@@ -1,3 +1,6 @@
+Previus configure slack api:
+https://api.slack.com/start/building/bolt-python#listening
+
 on Terraform:
 
 use it main.tf file
